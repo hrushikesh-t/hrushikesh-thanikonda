@@ -10,7 +10,7 @@
       &color=8B5CF6
       &center=true
       &vCenter=true
-      &width=900
+      &width=950
       &lines=Hrushikesh+Thanikonda;
       Data+%26+Analytics+Professional;
       Turning+Data+Into+Business+Decisions"
@@ -40,16 +40,14 @@
 🎓 **MS in Data Science — Stevens Institute of Technology**  
 📍 Jersey City, NJ  
 
-I’m a **business-focused Data & Analytics professional** with hands-on experience translating
-**ambiguous business problems** into **clear, decision-ready insights**.
+I’m a **business-focused Data & Analytics professional** who turns
+**messy, ambiguous data** into **clear, decision-ready insights**.
 
-I specialize in:
+**What I do best**
 - SQL-driven analysis & KPI development  
-- ETL pipelines, data validation & automation  
-- Forecasting & time-series modeling  
-- Power BI dashboards for stakeholder reporting  
-
-I care about **data quality, clarity, and impact** — not just models.
+- ETL pipelines, automation & data validation  
+- Time-series forecasting & statistical modeling  
+- Power BI dashboards for stakeholders  
 
 ---
 
@@ -62,44 +60,46 @@ I care about **data quality, clarity, and impact** — not just models.
   <img src="https://img.shields.io/badge/PostgreSQL-6366F1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-**Core Skills**
-- Data analysis & querying (SQL, Python)
-- KPI definition & dashboarding
-- ETL pipelines & data quality indicators (DQIs)
-- Forecasting (ARMA, SARIMA)
-- Regression, hypothesis testing
-- Business insight generation & stakeholder communication
-
 ---
 
-## 📌 Featured Projects
-> *These are the projects I’d confidently walk through in an interview.*
+## 🚀 Featured Projects (with Live Previews)
+
+### 📊 Data Pipeline & Business Analytics (Insurance)
+**End-to-end ETL + dashboards for cost driver analysis**
+
+- Built ETL pipelines using Python & SQL  
+- Identified key cost drivers (R² = 0.87)  
+- Created Power BI dashboards for stakeholders  
+- Automated data validation using DQIs  
+
+🔗 **Code:** `data-pipeline-business-analytics`  
+📊 **Live Dashboard:** https://app.powerbi.com/YOUR_PUBLIC_LINK  
+📓 **Notebook Preview:** https://nbviewer.org/github/hrushikesh-t/data-pipeline-business-analytics/blob/main/analysis.ipynb
+
+---
 
 ### 📈 Time Series Analysis — Finance & Economics
-- Forecasted stock prices and unemployment trends using ARMA/SARIMA  
-- Performed residual diagnostics, confidence intervals & validation  
-- Focused on **interpretability**, not black-box modeling  
+**Forecasting financial & economic trends**
 
-🔗 `time-series-analysis-finance-economics`
+- ARMA & SARIMA modeling  
+- Residual diagnostics & confidence intervals  
+- Emphasis on interpretability over black-box models  
 
----
-
-### 🔄 Data Pipeline & Business Analytics (Insurance)
-- Built end-to-end ETL pipelines using Python & SQL  
-- Identified key cost drivers (R² = 0.87)  
-- Designed Power BI dashboards for decision-makers  
-- Automated validation checks to improve data consistency  
-
-🔗 `data-pipeline-business-analytics`
+🔗 **Code:** `time-series-analysis-finance-economics`  
+📓 **Notebook Preview:** https://nbviewer.org/github/hrushikesh-t/time-series-analysis-finance-economics/blob/main/forecasting.ipynb  
+📈 **Forecast Plots:** `outputs/forecast_plots.png`
 
 ---
 
 ### 🤖 Inverse Dynamics Model — Action Recognition
-- CNN-based inverse dynamics model on EPIC-Kitchens  
-- Demonstrated impact of labeling strategy & bias-aware augmentation  
-- Improved dataset stability through semantic labels  
+**Understanding how labeling quality affects ML performance**
 
-🔗 `inverse-dynamics-deep-learning-demo`
+- CNN-based inverse dynamics model (EPIC-Kitchens)  
+- Bias-aware augmentation & semantic labeling  
+- Improved stability and prediction consistency  
+
+🔗 **Code:** `inverse-dynamics-deep-learning-demo`  
+🎞 **Model Demo (GIF):** `assets/model_demo.gif`
 
 ---
 
