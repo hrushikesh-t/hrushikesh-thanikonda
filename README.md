@@ -23,7 +23,7 @@
 
 <!-- ===== SOCIAL LINKS ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hrushikesht">
     <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:thanikondahrushikesh@gmail.com">
