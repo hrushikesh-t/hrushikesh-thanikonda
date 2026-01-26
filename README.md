@@ -1,64 +1,83 @@
-# Hi This is Hrushikesh Thanikonda 
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=600&color=2563EB&center=true&vCenter=true&width=760&lines=Hrushikesh+Thanikonda;Data+%26+Analytics+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Azure" />
+</p>
 
-Data Scientist / Data Analyst with hands-on experience across statistical modeling, machine learning,
-financial analytics, and cloud-based backend systems. I focus on turning real-world data into
-actionable insights using clean, reproducible workflows.
-
----
-
-## 🔍 What I Do
-- Analyze and model complex datasets using statistics and machine learning
-- Build end-to-end analytical projects with clear business interpretation
-- Work with financial data, time series, and risk/volatility analysis
-- Design cloud-backed applications with security best practices
-
----
-
-## 🧠 Technical Skills
-**Languages:** Python, R, C#  
-**Data & ML:** Time Series Analysis, ARMA/SARIMA, Deep Learning (CNNs), Statistical Modeling  
-**Finance:** Options Pricing, Implied Volatility, Volatility Smile Analysis  
-**Cloud & Backend:** Microsoft Azure, .NET, REST-style backend design  
-**Tools:** Git, GitHub, Jupyter, RStudio, Visual Studio
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thanikondahrushikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hrushikesh-t">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 👋 About Me
+🎓 **MS in Data Science – Stevens Institute of Technology**  
+📍 Jersey City, NJ  
 
-### 📊 Time Series Analysis of Financial & Economic Data
-- Modeled stock returns and unemployment rates using ARMA and SARIMA
-- Performed stationarity testing, diagnostics, and forecasting
-- Interpreted results for risk assessment and policy decision-making  
-➡️ Repo: `time-series-analysis-finance-economics`
+Business-focused **Data & Analytics professional** with hands-on experience in:
+- SQL-driven analysis & KPI development  
+- ETL pipelines, data validation & automation  
+- Time-series forecasting & statistical modeling  
+- Power BI dashboards for stakeholder decision-making  
 
----
-
-### 🤖 Inverse Dynamics Modeling Using Deep Learning
-- Built and compared CNN-based inverse dynamics models
-- Used EPIC-KITCHENS–derived data for learning state–action relationships
-- Demonstrated research-inspired ML experimentation and evaluation  
-➡️ Repo: `inverse-dynamics-deep-learning-demo`
+I enjoy turning **ambiguous business problems** into **clear, data-backed insights**.
 
 ---
 
-### 📈 Financial Derivatives & Volatility Analysis (NFLX)
-- Analyzed NFLX log returns, skewness, and kurtosis
-- Implemented Black–Scholes pricing and numerical implied volatility estimation
-- Visualized volatility smiles and market-implied risk  
-➡️ Repo: `financial-derivatives-analysis-nflx`
+## 🛠️ Tech Stack
+**Languages & Querying**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+**Analytics & Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Data Engineering & Cloud**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Methods**
+- Forecasting (ARMA, SARIMA)  
+- Regression & hypothesis testing  
+- Data quality indicators (DQIs)  
+- Automation & validation  
 
 ---
 
-### ☁️ Cloud-Based Image Sharing App with Azure
-- Designed a .NET backend with Azure cloud storage integration
-- Implemented role-based access (admin, approver, user) and moderation workflows
-- Followed cloud security best practices by excluding credentials  
-➡️ Repo: `cloud-based-image-sharing-app-with-azure`
+## 📌 Featured Work
+### 📈 Time Series Analysis — Finance & Economics
+- Forecasted stock prices & economic indicators using ARMA/SARIMA  
+- Performed residual diagnostics and confidence interval validation  
+
+### 🔄 Data Pipeline & Business Analytics
+- Built end-to-end ETL pipelines using Python & SQL  
+- Identified key cost drivers and created Power BI dashboards  
+
+### 🤖 Inverse Dynamics Model — Action Recognition
+- CNN-based inverse dynamics model using EPIC-Kitchens  
+- Demonstrated impact of labeling quality & bias-aware augmentation  
 
 ---
 
-## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/hrushikesht/
+## 📊 GitHub Activity
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-t&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=transparent"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-t&layout=compact&theme=transparent"/>
+</p>
 
-I’m actively seeking **Data Scientist / Data Analyst / Business Analyst** roles where I can apply
-data-driven thinking to real-world problems.
+---
+
+## 🎯 Open To
+📌 Full-time roles starting **2026**  
+- Data Analyst  
+- Analytics Engineer  
+- Business / Data Analytics  
+
+📬 Happy to connect, collaborate, or chat — feel free to reach out!
