@@ -4,13 +4,15 @@
   <b>Data & Analytics Professional</b> · SQL · Python · Power BI · Azure
 </p>
 
+
 <p align="center">
-  <img 
-    src="https://media.tenor.com/6rZ3nKXc9xkAAAAi/luffy-run.gif"
+  <img
+    src="https://github.com/user-attachments/assets/54869059-3039-488c-812b-15702f7b0fac"
     width="140"
     alt="Luffy running"
   />
 </p>
+
 
 <p align="center">
   <i>Turning data into clear, business-ready decisions</i>
