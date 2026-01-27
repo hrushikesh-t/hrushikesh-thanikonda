@@ -1,9 +1,8 @@
 <h1 align="center">Hrushikesh Thanikonda</h1>
 
 <p align="center">
-  <b>Data & Analytics Professional</b> · SQL · Python · Power BI · Azure
+  <b>Applied Data Scientist & Data Analyst</b> · Python · SQL · Statistics · Time Series · ML
 </p>
-
 
 <p align="center">
   <img
