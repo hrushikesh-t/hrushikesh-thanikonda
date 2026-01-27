@@ -38,7 +38,7 @@
 
 ---
 
-## 👋 About Me
+## About
 🎓 **MS in Data Science — Stevens Institute of Technology**  
 📍 Jersey City, NJ  
 
