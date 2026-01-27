@@ -1,16 +1,17 @@
-<!-- ===== NAME (STATIC & PROFESSIONAL) ===== -->
 <h1 align="center">Hrushikesh Thanikonda</h1>
 
 <p align="center">
   <b>Data & Analytics Professional</b> · SQL · Python · Power BI · Azure
 </p>
 
-<!-- ===== LUFFY RUNNING ANIMATION ===== -->
 <p align="center">
-  <img src="assets/luffy-running.gif" width="140" alt="Luffy running"/>
+  <img 
+    src="https://media.tenor.com/6rZ3nKXc9xkAAAAi/luffy-run.gif"
+    width="140"
+    alt="Luffy running"
+  />
 </p>
 
-<!-- ===== VALUE STATEMENT ===== -->
 <p align="center">
   <i>Turning data into clear, business-ready decisions</i>
 </p>
@@ -18,6 +19,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
+
 
 
 <!-- ===== SOCIAL LINKS ===== -->
