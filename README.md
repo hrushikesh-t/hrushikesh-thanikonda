@@ -60,11 +60,29 @@ I focus on **practical impact** — not just models.
 </p>
 
 **What I work with**
-- Data analysis & querying (Python, SQL)
-- Time-series forecasting (ARMA, SARIMA)
-- Regression & hypothesis testing
-- ETL pipelines & data validation
-- Dashboarding & stakeholder reporting
+
+**Data Analysis & Analytics**
+- Python, SQL (PostgreSQL, MS SQL Server)
+- Exploratory data analysis, KPI definition
+- Data validation, quality checks, and automation
+- Dashboarding & reporting (Power BI)
+
+**Statistical Modeling & Forecasting**
+- Regression and hypothesis testing
+- Time-series modeling (ARMA, SARIMA)
+- Model diagnostics, residual analysis, confidence intervals
+
+**Machine Learning & Deep Learning**
+- Supervised learning (regression, classification)
+- Feature engineering and model evaluation
+- Deep learning with TensorFlow / Keras (CNNs)
+- Bias-aware data augmentation and labeling analysis
+
+**Data Engineering & Cloud (Applied)**
+- ETL pipelines and workflow automation
+- Azure SQL, Cosmos DB
+- Serverless functions and web app deployment
+- Cloud-based data storage and access control
 
 ---
 
