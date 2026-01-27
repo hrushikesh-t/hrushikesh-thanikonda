@@ -1,7 +1,7 @@
 <h1 align="center">Hrushikesh Thanikonda</h1>
 
 <p align="center">
-  <b>Applied Data Scientist & Data Analyst</b> · Python · SQL · Statistics · Time Series · ML
+  <b>Applied Data Scientist & Data Analyst</b> · Python · SQL · Statistics · Time Series · Machine Learning
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
   />
 </p>
 
-
 <p align="center">
   <i>Turning data into clear, business-ready decisions</i>
 </p>
@@ -21,7 +20,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-
+---
 
 <!-- ===== SOCIAL LINKS ===== -->
 <p align="center">
@@ -38,70 +37,64 @@
 
 ---
 
-## About
+## 👋 About Me
 🎓 **MS in Data Science — Stevens Institute of Technology**  
 📍 Jersey City, NJ  
 
-I’m a **business-focused Data & Analytics professional** who turns
-**messy, ambiguous data** into **clear, decision-ready insights**.
+I’m an **applied data scientist and analyst** with hands-on experience transforming
+**raw, ambiguous data** into **actionable insights** through statistical modeling,
+forecasting, and analytics.
 
-**What I do best**
-- SQL-driven analysis & KPI development  
-- ETL pipelines, automation & data validation  
-- Time-series forecasting & statistical modeling  
-- Power BI dashboards for stakeholders  
+I focus on **practical impact** — not just models.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-6366F1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-6366F1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-64748B?style=flat"/>
+  <img src="https://img.shields.io/badge/Time%20Series-4F46E5?style=flat"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=flat"/>
   <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Azure-38BDF8?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6366F1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Featured Projects (with Live Previews)
-
-### 📊 Data Pipeline & Business Analytics (Insurance)
-**End-to-end ETL + dashboards for cost driver analysis**
-
-- Built ETL pipelines using Python & SQL  
-- Identified key cost drivers (R² = 0.87)  
-- Created Power BI dashboards for stakeholders  
-- Automated data validation using DQIs  
-
-🔗 **Code:** `data-pipeline-business-analytics`  
-📊 **Live Dashboard:** https://app.powerbi.com/YOUR_PUBLIC_LINK  
-📓 **Notebook Preview:** https://nbviewer.org/github/hrushikesh-t/data-pipeline-business-analytics/blob/main/analysis.ipynb
+**What I work with**
+- Data analysis & querying (Python, SQL)
+- Time-series forecasting (ARMA, SARIMA)
+- Regression & hypothesis testing
+- ETL pipelines & data validation
+- Dashboarding & stakeholder reporting
 
 ---
 
-### 📈 Time Series Analysis — Finance & Economics
-**Forecasting financial & economic trends**
+## 🚀 Highlighted Work
 
-- ARMA & SARIMA modeling  
-- Residual diagnostics & confidence intervals  
-- Emphasis on interpretability over black-box models  
+### 📈 Time Series Forecasting — Finance & Economics
+- Built ARMA & SARIMA models for financial and economic indicators  
+- Performed model diagnostics, residual analysis, and confidence intervals  
+- Focused on interpretability and trend communication  
 
-🔗 **Code:** `time-series-analysis-finance-economics`  
-📓 **Notebook Preview:** https://nbviewer.org/github/hrushikesh-t/time-series-analysis-finance-economics/blob/main/forecasting.ipynb  
-📈 **Forecast Plots:** `outputs/forecast_plots.png`
+🔗 Repo: `time-series-analysis-finance-economics`
 
 ---
 
-### 🤖 Inverse Dynamics Model — Action Recognition
-**Understanding how labeling quality affects ML performance**
+### 🔄 Data Pipeline & Business Analytics
+- Designed ETL pipelines using Python & SQL  
+- Identified key cost drivers and business trends  
+- Created Power BI dashboards for decision-makers  
+- Implemented automated data validation checks  
 
-- CNN-based inverse dynamics model (EPIC-Kitchens)  
-- Bias-aware augmentation & semantic labeling  
-- Improved stability and prediction consistency  
+🔗 Repo: `data-pipeline-business-analytics`
 
-🔗 **Code:** `inverse-dynamics-deep-learning-demo`  
-🎞 **Model Demo (GIF):** `assets/model_demo.gif`
+---
+
+### 🤖 Deep Learning — Action Recognition
+- CNN-based inverse dynamics model using EPIC-Kitchens  
+- Analyzed the impact of labeling strategies and bias-aware augmentation  
+- Improved dataset stability and model consistency  
+
+🔗 Repo: `inverse-dynamics-deep-learning-demo`
 
 ---
 
@@ -115,9 +108,9 @@ I’m a **business-focused Data & Analytics professional** who turns
 
 ## 🎯 Currently Seeking
 📌 **Full-time roles starting 2026**
+- Data Scientist  
 - Data Analyst  
-- Analytics Engineer  
-- Business / Data Analytics  
+- Applied / Business Analytics roles  
 
 💬 Open to referrals, collaborations, and meaningful conversations.
 
